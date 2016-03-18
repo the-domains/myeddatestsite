@@ -2,6 +2,7 @@ name: myeddatestsite
 favicon: null
 layout_spectrum: 0.5382687367964536
 typography_spectrum: 0.7803109658416361
+title: abcdef
 cta:
   domain: null
   bucket: null
